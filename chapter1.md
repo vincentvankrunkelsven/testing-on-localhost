@@ -4,7 +4,7 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:123456
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:{"parent"=>"123456", "children"=>["234567", "345678"]}
 ## A really bad movie
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
