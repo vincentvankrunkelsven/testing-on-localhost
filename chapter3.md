@@ -30,3 +30,9 @@ description : Insert the chapter description here
 ```{r}
 
 ```
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:69ba51cb36
+## Test
+
+*** =slides_key
+c1184800af6af5beb845a9b88f0d6857
