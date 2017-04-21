@@ -42,3 +42,31 @@ function(x) {
 *** =script
 
 
+--- type: TwoColumns
+## The `test_function` function
+
+*** =part1
+- a {{1}}
+- b {{2}}
+- c {{3}}
+
+*** =part2
+```{r}
+function(x) {
+    print(x);
+}(x);
+``` {{1}}
+```{r}
+function(x) {
+    print(x);
+}(x);
+```
+```{r}
+function(x) {
+    print(x);
+}(x);
+``` {{3}}
+
+*** =script
+
+
